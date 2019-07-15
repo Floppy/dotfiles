@@ -1,1 +1,3 @@
 cask "alfred"
+
+mas "Trello", id: 1278508951
