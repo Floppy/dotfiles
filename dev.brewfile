@@ -1,0 +1,11 @@
+tap "homebrew/cask-fonts"
+cask "font-fira-code"
+
+cask "visual-studio-code"
+cask "iterm2"
+
+brew "rbenv"
+brew "ruby-build"
+brew "rbenv-default-gems"
+
+brew "nvm"
