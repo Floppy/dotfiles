@@ -9,3 +9,6 @@ brew "ruby-build"
 brew "rbenv-default-gems"
 
 brew "nvm"
+
+cask "firefox"
+cask "google-chrome"
