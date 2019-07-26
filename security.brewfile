@@ -4,3 +4,5 @@ cask "gpg-suite"
 
 tap "fluidkeys/tap"
 brew "fluidkeys"
+
+cask "oversight"
