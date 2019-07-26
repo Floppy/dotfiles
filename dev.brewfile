@@ -12,3 +12,5 @@ brew "nvm"
 
 cask "firefox"
 cask "google-chrome"
+
+cask "java"
