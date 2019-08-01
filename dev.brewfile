@@ -14,3 +14,5 @@ cask "firefox"
 cask "google-chrome"
 
 cask "java"
+
+cask "postman"
