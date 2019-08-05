@@ -1,22 +1,15 @@
 tap "homebrew/cask-fonts"
 cask "font-fira-code"
-
 cask "visual-studio-code"
 cask "iterm2"
-
 brew "rbenv"
 brew "ruby-build"
 brew "rbenv-default-gems"
-
 brew "nvm"
-
 cask "firefox"
 cask "google-chrome"
-
 cask "java"
-
 cask "postman"
-
 cask "docker"
-
 brew "postgresql"
+brew "composer"
