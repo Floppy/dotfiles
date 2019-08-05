@@ -18,3 +18,5 @@ cask "java"
 cask "postman"
 
 cask "docker"
+
+brew "postgresql"
