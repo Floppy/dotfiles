@@ -4,5 +4,5 @@ cask "authy"
 cask "gpg-suite"
 tap "fluidkeys/tap"
 brew "fluidkeys"
-
 cask "oversight"
+cask "tor-browser"
