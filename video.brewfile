@@ -1,0 +1,6 @@
+brew "ffmpeg"
+cask "makemkv"
+cask "handbrake"
+cask "losslesscut"
+cask "plex-media-player"
+brew "youtube-dl"
