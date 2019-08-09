@@ -10,7 +10,7 @@ This probably won't work well on a machine that already has some of these applic
 
 ## Usage
 
-To install everything, just run `make`.
+To install everything, just run `make`. You can run `make home` or `make work` for specific subsets of apps.
 
 To install individual sections:
 
