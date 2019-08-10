@@ -1,0 +1,4 @@
+instance_eval(File.read("Brewfile"))
+Dir.glob("home/*").each do |f|
+  instance_eval(File.read(f))
+end
