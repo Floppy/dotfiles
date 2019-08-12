@@ -1,0 +1,4 @@
+cask "balenaetcher"
+cask "sonic-pi"
+cask "fritzing"
+cask "arduino"
