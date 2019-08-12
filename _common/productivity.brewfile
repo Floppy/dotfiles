@@ -4,3 +4,7 @@ mas "Next Meeting", id: 1017470484
 mas "Fantastical 2", id: 975937182
 cask "transmission"
 brew "rename"
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Keynote", id: 409183694
+cask "libreoffice"
