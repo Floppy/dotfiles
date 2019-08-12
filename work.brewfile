@@ -1,4 +1,4 @@
 instance_eval(File.read("Brewfile"))
-Dir.glob("work/*").each do |f|
+Dir.glob("_work/*").each do |f|
   instance_eval(File.read(f))
 end
