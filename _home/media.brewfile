@@ -5,3 +5,4 @@ cask "losslesscut"
 cask "plex-media-player"
 brew "youtube-dl"
 mas "iMovie", id: 408981434
+cask "calibre"
