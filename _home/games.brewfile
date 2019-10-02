@@ -1,3 +1,4 @@
 cask "discord"
 cask "steam"
 cask "minecraft"
+cask "battlescribe"
