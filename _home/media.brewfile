@@ -7,3 +7,4 @@ brew "youtube-dl"
 mas "iMovie", id: 408981434
 cask "calibre"
 cask "waltr"
+cask "iexplorer"
