@@ -2,7 +2,6 @@ brew "ffmpeg"
 cask "makemkv"
 cask "handbrake"
 cask "losslesscut"
-cask "plex"
 brew "youtube-dl"
 mas "iMovie", id: 408981434
 cask "calibre"
