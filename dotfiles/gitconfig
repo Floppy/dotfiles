@@ -1,0 +1,12 @@
+[user]
+	email = james@floppy.org.uk
+	signingkey = D5122D5D
+	name = James Smith
+[commit]
+	gpgsign = true
+[fetch]
+	prune = true
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
