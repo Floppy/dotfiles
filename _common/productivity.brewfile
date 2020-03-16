@@ -9,3 +9,4 @@ mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
 cask "libreoffice"
 mas "Todoist", id: 585829637
+cask "folding-at-home"
