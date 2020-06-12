@@ -10,3 +10,5 @@
 	rebase = true
 [rebase]
 	autoStash = true
+[init]
+	templateDir = /Users/james/.config/git/template
