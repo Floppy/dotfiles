@@ -1,3 +1,7 @@
 brew "awscli"
+
 tap "cloudfoundry/tap"
 brew "cf-cli"
+
+tap "dxw/tap"
+brew "whippet"
