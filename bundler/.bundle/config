@@ -1,0 +1,8 @@
+---
+BUNDLE_BUILD__MYSQL2: "--with-mysql-config=/usr/local/bin/mysql_config"
+BUNDLE_GEM__TEST: "rspec"
+BUNDLE_GEM__MIT: "false"
+BUNDLE_GEM__COC: "true"
+BUNDLE_BUILD__NOKOGIRI: "--use-system-libraries --with-xml2-include=/usr/local/Cellar/libxml2/2.9.9_2/include/libxml2"
+BUNDLE_BUILD__LIBV8: "--with-system-v8"
+BUNDLE_BUILD__THERUBYRACER: "--with-v8-dir=/usr/local/opt/v8@3.15"
