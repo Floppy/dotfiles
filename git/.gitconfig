@@ -1,0 +1,33 @@
+[user]
+	email = james@floppy.org.uk
+	signingkey = D5122D5D
+	name = James Smith
+[core]
+	editor = vi
+	ignorecase = false
+	excludesfile = /Users/james/.gitignore
+[mergetool]
+	keepBackup = true
+[color]
+	ui = true
+[commit]
+	gpgsign = true
+[fetch]
+	prune = true
+[push]
+	default = simple
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[init]
+	templateDir = ~/.config/git/template
+[gitget]
+	root = ~/Source
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[diff "csv"]
+	wordRegex = [^,\n]+[,\n]|[,]
