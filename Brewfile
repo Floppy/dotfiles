@@ -3,6 +3,7 @@ tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/services"
 brew "mas"
+brew "stow"
 
 tap "domt4/autoupdate"
 
