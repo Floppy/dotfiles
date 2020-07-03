@@ -5,6 +5,7 @@ default:
 	stow bundler
 	stow starship
 	stow ssh
+	stow gpg
 
 work: default
 	brew bundle --file=work.brewfile
