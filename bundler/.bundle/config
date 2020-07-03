@@ -1,4 +1,5 @@
 ---
+BUNDLE_BUILD__MYSQL: "--with-mysql-config=/usr/local/bin/mysql_config"
 BUNDLE_BUILD__MYSQL2: "--with-mysql-config=/usr/local/bin/mysql_config"
 BUNDLE_GEM__TEST: "rspec"
 BUNDLE_GEM__MIT: "false"
