@@ -1,5 +1,5 @@
 default:
-	brew bundle
+	brew bundle --file=homebrew/Brewfile
 	stow git
 	stow zsh
 	stow bundler
@@ -8,7 +8,7 @@ default:
 	stow gpg
 
 work: default
-	brew bundle --file=work.brewfile
+	brew bundle --file=homebrew/work.brewfile
 
 home: default
-	brew bundle --file=home.brewfile
+	brew bundle --file=homebrew/home.brewfile

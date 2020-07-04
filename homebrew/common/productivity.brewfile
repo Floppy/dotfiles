@@ -1,3 +1,4 @@
+brew "stow"
 cask "alfred"
 cask "quitter"
 mas "Trello", id: 1278508951
