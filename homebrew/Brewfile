@@ -6,6 +6,6 @@ brew "mas"
 
 tap "domt4/autoupdate"
 
-Dir.glob("common/*.brewfile").each do |f|
+Dir.glob("homebrew/common/*.brewfile").each do |f|
   instance_eval(File.read(f))
 end
