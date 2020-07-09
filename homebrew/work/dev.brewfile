@@ -5,3 +5,5 @@ brew "cf-cli"
 
 tap "dxw/tap"
 brew "whippet"
+
+cask "soapui"
