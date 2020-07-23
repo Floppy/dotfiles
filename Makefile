@@ -6,6 +6,7 @@ default:
 	stow starship
 	stow ssh
 	stow gpg
+	stow fluidkeys
 
 work: default
 	brew bundle --file=homebrew/work.brewfile
