@@ -1,5 +1,5 @@
 default:
-	brew bundle --file=homebrew/Brewfile
+	$(MAKE) -C homebrew
 	stow git
 	stow zsh
 	stow bundler
@@ -10,7 +10,7 @@ default:
 	stow vscode
 
 work: default
-	brew bundle --file=homebrew/work.brewfile
+	$(MAKE) work -C homebrew
 
 home: default
-	brew bundle --file=homebrew/home.brewfile
+	$(MAKE) home -C homebrew
