@@ -1,8 +1,8 @@
 default:
 	brew bundle
 
-work: default
+work:
 	brew bundle --file=work.brewfile
 
-home: default
+home:
 	brew bundle --file=home.brewfile
