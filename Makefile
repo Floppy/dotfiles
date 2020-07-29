@@ -1,16 +1,9 @@
-default:
-	$(MAKE) -C homebrew
-	stow git
-	stow zsh
-	stow bundler
-	stow starship
-	stow ssh
-	stow gpg
-	stow fluidkeys
-	stow vscode
+# Install all the things
+DIRS = $(sort $(dir $(wildcard */)))
+.PHONY: $(DIRS)
 
-work: default
-	$(MAKE) work -C homebrew
+default: $(DIRS)
 
-home: default
-	$(MAKE) home -C homebrew
+$(DIRS):
+	if ! test -f $(@)/.nostow; then stow -vv $(@); fi
+	if test -f $(@)/Makefile; then $(MAKE) -C $(@); fi
