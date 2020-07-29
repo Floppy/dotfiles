@@ -7,6 +7,7 @@ default:
 	stow ssh
 	stow gpg
 	stow fluidkeys
+	stow vscode
 
 work: default
 	brew bundle --file=homebrew/work.brewfile
