@@ -1,8 +1,4 @@
+HOSTNAME := `hostname -s`
+
 default:
-	brew bundle
-
-work:
-	brew bundle --file=work.brewfile
-
-home:
-	brew bundle --file=home.brewfile
+	brew bundle --file=$(HOSTNAME).brewfile
