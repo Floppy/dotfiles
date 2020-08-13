@@ -46,5 +46,9 @@
         "tberman.json-schema-validator",
         "tsqllint.tsqllint",
         "wingrunr21.vscode-ruby"
-    ]
+    ],
+    "plantuml.exportFormat": "png",
+    "plantuml.render": "PlantUMLServer",
+    "plantuml.server": "https://www.plantuml.com/plantuml",
+    "plantuml.urlResult": "SimpleURL"
 }
