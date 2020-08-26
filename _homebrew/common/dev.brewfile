@@ -25,6 +25,7 @@ brew "siege"
 brew "terraform"
 brew "tflint"
 brew "ansible"
+brew "ansible-lint"
 tap "heroku/brew"
 brew "heroku/brew/heroku"
 brew "heroku/brew/heroku-node" # manually specified to help cleanup
