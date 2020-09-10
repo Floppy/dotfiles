@@ -47,8 +47,10 @@
         "tsqllint.tsqllint",
         "wingrunr21.vscode-ruby"
     ],
-    "plantuml.exportFormat": "png",
-    "plantuml.render": "PlantUMLServer",
+    "plantuml.render": "Local",
     "plantuml.server": "https://www.plantuml.com/plantuml",
-    "plantuml.urlResult": "SimpleURL"
+    "plantuml.urlResult": "SimpleURL",
+    "plantuml.commandArgs": [
+        "-DPLANTUML_LIMIT_SIZE=8192"
+    ]
 }
