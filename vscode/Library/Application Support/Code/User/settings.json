@@ -1,56 +1,126 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.fontLigatures": true,
-    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 14,
-    "git.autofetch": true,
-    "files.trimTrailingWhitespace": true,
-    "git.confirmSync": false,
-    "editor.tabSize": 2,
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "html.format.endWithNewline": true,
-    "rainbow_csv.csv_lint_detect_trailing_spaces": true,
-    "ruby.codeCompletion": "rcodetools",
-    "ruby.format": "rubocop",
-    "ruby.intellisense": "rubyLocate",
-    "ruby.useBundler": true,
-    "editor.multiCursorModifier": "alt",
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "diffEditor.ignoreTrimWhitespace": false,
-    "extensions.showRecommendationsOnlyOnDemand": true,
-    "extension-manager.extensions": [
-        "alexkrechik.cucumberautocomplete",
-        "beauallison.brew-services",
-        "42Crunch.vscode-openapi",
-        "DavidAnson.vscode-markdownlint",
-        "donjayamanne.githistory",
-        "eamodio.gitlens",
-        "fabiospampinato.vscode-diff",
-        "fernandoescolar.vscode-solution-explorer",
-        "GitHub.vscode-pull-request-github",
-        "jebbs.plantuml",
-        "jmrog.vscode-nuget-package-manager",
-        "mechatroner.rainbow-csv",
-        "mrorz.language-gettext",
-        "ms-azuretools.vscode-docker",
-        "ms-dotnettools.csharp",
-        "ms-mssql.mssql",
-        "ms-python.python",
-        "ms-vsliveshare.vsliveshare",
-        "rebornix.ruby",
-        "redhat.vscode-yaml",
-        "sharat.vscode-brewfile",
-        "slevesque.vscode-hexdump",
-        "syler.sass-indented",
-        "tberman.json-schema-validator",
-        "tsqllint.tsqllint",
-        "wingrunr21.vscode-ruby"
-    ],
-    "plantuml.render": "Local",
-    "plantuml.server": "https://www.plantuml.com/plantuml",
-    "plantuml.urlResult": "SimpleURL",
-    "plantuml.commandArgs": [
-        "-DPLANTUML_LIMIT_SIZE=8192"
-    ]
+	"C_Cpp.updateChannel": "Insiders",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 14,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.tabSize": 2,
+	"extension-manager.extensions": [
+		"alexkrechik.cucumberautocomplete",
+		"beauallison.brew-services",
+		"42Crunch.vscode-openapi",
+		"DavidAnson.vscode-markdownlint",
+		"donjayamanne.githistory",
+		"eamodio.gitlens",
+		"fabiospampinato.vscode-diff",
+		"fernandoescolar.vscode-solution-explorer",
+		"GitHub.vscode-pull-request-github",
+		"jebbs.plantuml",
+		"jmrog.vscode-nuget-package-manager",
+		"mechatroner.rainbow-csv",
+		"mrorz.language-gettext",
+		"ms-azuretools.vscode-docker",
+		"ms-dotnettools.csharp",
+		"ms-mssql.mssql",
+		"ms-python.python",
+		"ms-vsliveshare.vsliveshare",
+		"rebornix.ruby",
+		"redhat.vscode-yaml",
+		"sharat.vscode-brewfile",
+		"slevesque.vscode-hexdump",
+		"syler.sass-indented",
+		"tberman.json-schema-validator",
+		"tsqllint.tsqllint",
+		"wingrunr21.vscode-ruby"
+	],
+	"extensions.showRecommendationsOnlyOnDemand": true,
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"files.trimTrailingWhitespace": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableCommitSigning": true,
+	"git.promptToSaveFilesBeforeCommit": "always",
+	"git.suggestSmartCommit": false,
+	"html.format.endWithNewline": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"liveshare.featureSet": "insiders",
+	"peacock.favoriteColors": [
+		{
+			"name": "Angular Red",
+			"value": "#b52e31"
+		},
+		{
+			"name": "Auth0 Orange",
+			"value": "#eb5424"
+		},
+		{
+			"name": "Azure Blue",
+			"value": "#007fff"
+		},
+		{
+			"name": "C# Purple",
+			"value": "#68217A"
+		},
+		{
+			"name": "Gatsby Purple",
+			"value": "#639"
+		},
+		{
+			"name": "Go Cyan",
+			"value": "#5dc9e2"
+		},
+		{
+			"name": "Java Blue-Gray",
+			"value": "#557c9b"
+		},
+		{
+			"name": "JavaScript Yellow",
+			"value": "#f9e64f"
+		},
+		{
+			"name": "Mandalorian Blue",
+			"value": "#1857a4"
+		},
+		{
+			"name": "Node Green",
+			"value": "#215732"
+		},
+		{
+			"name": "React Blue",
+			"value": "#00b3e6"
+		},
+		{
+			"name": "Something Different",
+			"value": "#832561"
+		},
+		{
+			"name": "Vue Green",
+			"value": "#42b883"
+		}
+	],
+	"rainbow_csv.csv_lint_detect_trailing_spaces": true,
+	"ruby.codeCompletion": "rcodetools",
+	"ruby.format": "rubocop",
+	"ruby.intellisense": "rubyLocate",
+	"ruby.useBundler": true,
+	"tabnine.experimentalAutoImports": true,
+	"terminal.integrated.fontSize": 14,
+	"terminal.integrated.lineHeight": 1.2,
+	"terraform.indexing": {
+		"enabled": false,
+		"liveIndexing": false,
+		"exclude": [
+			"**/*"
+		]
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"typescript.validate.enable": false,
+	"vscode-coverage-highlighter.showDiagnostic": true,
+	"vscode-coverage-highlighter.wholeLine": true,
+	"workbench.startupEditor": "newUntitledFile"
 }
