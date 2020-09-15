@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowRemoteFetchOfPluginRepository</key>
+	<true/>
+	<key>DefaultPasswordLength</key>
+	<integer>32</integer>
+	<key>DoubleClickURLAction</key>
+	<integer>1</integer>
+	<key>EntrySearchFilterContext</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwTFFUkbnVsbNMNDg8QERJb
+	c2VhcmNoRmxhZ3Ncc2VhcmNoU3RyaW5nViRjbGFzcxAggAKAA1VpbWd1ctIVFhcYWiRj
+	bGFzc25hbWVYJGNsYXNzZXNfEBRNUEVudHJ5U2VhcmNoQ29udGV4dKIZGl8QFE1QRW50
+	cnlTZWFyY2hDb250ZXh0WE5TT2JqZWN0CBEaJCkyN0lMUVNYXmVxfoWHiYuRlqGqwcTb
+	AAAAAAAAAQEAAAAAAAAAGwAAAAAAAAAAAAAAAAAAAOQ=
+	</data>
+	<key>EntryTableSortDescriptors</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0FycmF5AISECE5TT2JqZWN0AIWEAWkCkoSE
+	hBBOU1NvcnREZXNjcmlwdG9yAJSShISECE5TU3RyaW5nAZSEASsFdGl0bGWGhAFjAJKE
+	mJggbG9jYWxpemVkQ2FzZUluc2Vuc2l0aXZlQ29tcGFyZTqGhpKElpKEmJgIdXNlcm5h
+	bWWGmQGShJiYIGxvY2FsaXplZENhc2VJbnNlbnNpdGl2ZUNvbXBhcmU6hoaG
+	</data>
+	<key>FileChangeStrategy</key>
+	<integer>3</integer>
+	<key>LastDatabasePath</key>
+	<string>file:///Users/james/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/James/security/keepass.kdbx</string>
+	<key>MPHTTPSettingsKeyShowMenuItem</key>
+	<false/>
+	<key>MPHTTPSettingsKeyShowNotifications</key>
+	<false/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~/Downloads</string>
+	<key>NSNavLastUserSetHideExtensionButtonState</key>
+	<true/>
+	<key>NSNavPanelExpandedSizeForOpenMode</key>
+	<string>{799, 448}</string>
+	<key>NSNavPanelExpandedSizeForSaveMode</key>
+	<string>{712, 448}</string>
+	<key>NSSplitView Subview Frames InspectorNotesSplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 278.000000, 291.000000, NO, NO</string>
+		<string>0.000000, 292.000000, 278.000000, 100.000000, NO, NO</string>
+	</array>
+	<key>NSSplitView Subview Frames SplitView</key>
+	<array>
+		<string>0.000000, 0.000000, 272.000000, 442.000000, NO, NO</string>
+		<string>273.000000, 0.000000, 539.000000, 442.000000, NO, NO</string>
+		<string>813.000000, 0.000000, 278.000000, 442.000000, NO, NO</string>
+	</array>
+	<key>NSTableView Columns v2 EntryTable</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVVBcnJheYABrxAlCwwbJicoKSorLDI8PT4/
+	SUpLVVZXYWJjbW5veXp7hYaQkZucnVUkbnVsbNINDg8aWk5TLm9iamVjdHNWJGNsYXNz
+	qhAREhMUFRYXGBmAAoAKgA6AEYAUgBeAGoAdgB+AIYAk0xwNDh0hJVdOUy5rZXlzox4f
+	IIADgASABaMiIySABoAHgAiACVpJZGVudGlmaWVyVVdpZHRoVkhpZGRlbl8QIU1QRW50
+	cnlUYWJsZUluZGV4Q29sdW1uSWRlbnRpZmllciNAOwAAAAAAAAjSLS4vMFokY2xhc3Nu
+	YW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaIvMVhOU09iamVjdNMcDQ4zNyWjHh8ggAOA
+	BIAFozg5OoALgAyADYAJXxAYTVBQYXJlbnRDb2x1bW5JZGVudGlmaWVyI0BaJwAAAAAA
+	CdMcDQ5ARCWjHh8ggAOABIAFo0VGJIAPgBCACIAJXxAXTVBUaXRsZUNvbHVtbklkZW50
+	aWZpZXIjQGIDwAAAAADTHA0OTFAlox4fIIADgASABaNRUiSAEoATgAiACV8QGk1QVXNl
+	ck5hbWVDb2x1bW5JZGVudGlmaWVyI0BdrsAAAAAA0xwNDlhcJaMeHyCAA4AEgAWjXV4k
+	gBWAFoAIgAlfEBpNUFBhc3N3b3JkQ29sdW1uSWRlbnRpZmllciNAXEvAAAAAANMcDQ5k
+	aCWjHh8ggAOABIAFo2lqJIAYgBmACIAJXxAfTVBFbnRyeVRhYmxlVVJMQ29sdW1uSWRl
+	bnRpZmllciNAaOAAAAAAANMcDQ5wdCWjHh8ggAOABIAFo3V2JIAbgByACIAJXxAhTVBF
+	bnRyeVRhYmxlTm90ZXNDb2x1bW5JZGVudGlmaWVyI0BZAAAAAAAA0xwNDnyAJaMeHyCA
+	A4AEgAWjgXYkgB6AHIAIgAlfECZNUEVudHJ5VGFibGVBdHRhY2htZW50Q29sdW1uSWRl
+	bnRpZmllctMcDQ6HiyWjHh8ggAOABIAFo4x2JIAggByACIAJXxAjTVBFbnRyeVRhYmxl
+	TW9kZmllZENvbHVtbklkZW50aWZpZXLTHA0OkpYlox4fIIADgASABaOXmCSAIoAjgAiA
+	CV8QI01QRW50cnlUYWJsZUhpc3RvcnlDb2x1bW5JZGVudGlmaWVyI0BicAAAAAAA0i0u
+	np9eTlNNdXRhYmxlQXJyYXmjnqAxV05TQXJyYXkACAARABoAJAApADIANwBJAEwAUgBU
+	AHwAggCHAJIAmQCkAKYAqACqAKwArgCwALIAtAC2ALgAugDBAMkAzQDPANEA0wDXANkA
+	2wDdAN8A6gDwAPcBGwEkASUBKgE1AT4BSwFOAVcBXgFiAWQBZgFoAWwBbgFwAXIBdAGP
+	AZgBmQGgAaQBpgGoAaoBrgGwAbIBtAG2AdAB2QHgAeQB5gHoAeoB7gHwAfIB9AH2AhMC
+	HAIjAicCKQIrAi0CMQIzAjUCNwI5AlYCXwJmAmoCbAJuAnACdAJ2AngCegJ8Ap4CpwKu
+	ArICtAK2ArgCvAK+AsACwgLEAugC8QL4AvwC/gMAAwIDBgMIAwoDDAMOAzcDPgNCA0QD
+	RgNIA0wDTgNQA1IDVAN6A4EDhQOHA4kDiwOPA5EDkwOVA5cDvQPGA8sD2gPeAAAAAAAA
+	AgEAAAAAAAAAoQAAAAAAAAAAAAAAAAAAA+Y=
+	</data>
+	<key>NSTableView Sort Ordering v2 EntryTable</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVVBcnJheYABrAsMExwdHh8gJi4vMFUkbnVs
+	bNINDg8SWk5TLm9iamVjdHNWJGNsYXNzohARgAKACIAL0xQNDhUYG1dOUy5rZXlzohYX
+	gAOABKIZGoAFgAaAB1pJZGVudGlmaWVyWUFzY2VuZGluZ18QF01QVGl0bGVDb2x1bW5J
+	ZGVudGlmaWVyCNIhIiMkWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oiMl
+	WE5TT2JqZWN00xQNDicqG6IWF4ADgASiKyyACYAKgAdfEBpNUFVzZXJOYW1lQ29sdW1u
+	SWRlbnRpZmllcgnSISIxMl5OU011dGFibGVBcnJheaMxMyVXTlNBcnJheQAIABEAGgAk
+	ACkAMgA3AEkATABSAFQAYQBnAGwAdwB+AIEAgwCFAIcAjgCWAJkAmwCdAKAAogCkAKYA
+	sQC7ANUA1gDbAOYA7wD8AP8BCAEPARIBFAEWARkBGwEdAR8BPAE9AUIBUQFVAAAAAAAA
+	AgEAAAAAAAAANAAAAAAAAAAAAAAAAAAAAV0=
+	</data>
+	<key>NSTableView Supports v2 EntryTable</key>
+	<true/>
+	<key>NSToolbar Configuration MainWindowToolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame DatabaseWindow</key>
+	<string>141 510 1091 464 0 0 1920 1057 </string>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>603 171 799 448 0 0 1920 1057 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>650 498 620 392 139 -1050 1680 1027 </string>
+	<key>PasswordCharacterFlags</key>
+	<integer>15</integer>
+	<key>PasswordCustomString</key>
+	<string></string>
+	<key>PasswordEnsureOccurance</key>
+	<false/>
+	<key>PasswordUseCustomString</key>
+	<false/>
+	<key>RecentEntrySearches</key>
+	<array>
+	</array>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUHasLaunchedBefore</key>
+	<true/>
+	<key>SULastCheckTime</key>
+	<date>2020-09-14T21:12:41Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>SUUpdateGroupIdentifier</key>
+	<integer>1091910140</integer>
+	<key>SUUpdateRelaunchingMarker</key>
+	<false/>
+</dict>
+</plist>
