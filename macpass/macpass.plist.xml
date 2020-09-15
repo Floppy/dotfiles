@@ -4,6 +4,8 @@
 <dict>
 	<key>AllowRemoteFetchOfPluginRepository</key>
 	<true/>
+	<key>CopyGeneratedPasswordToClipboard</key>
+	<true/>
 	<key>DefaultPasswordLength</key>
 	<integer>32</integer>
 	<key>DoubleClickURLAction</key>
@@ -26,6 +28,8 @@
 	</data>
 	<key>FileChangeStrategy</key>
 	<integer>3</integer>
+	<key>HideIncopatiblePluginsWarning</key>
+	<false/>
 	<key>LastDatabasePath</key>
 	<string>file:///Users/james/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/James/security/keepass.kdbx</string>
 	<key>MPHTTPSettingsKeyShowMenuItem</key>
@@ -107,6 +111,16 @@
 		<key>TB Size Mode</key>
 		<integer>1</integer>
 	</dict>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSUserKeyEquivalents</key>
+	<dict>
+		<key>Copy Password</key>
+		<string>@c</string>
+	</dict>
 	<key>NSWindow Frame DatabaseWindow</key>
 	<string>141 510 1091 464 0 0 1920 1057 </string>
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
@@ -117,24 +131,26 @@
 	<integer>15</integer>
 	<key>PasswordCustomString</key>
 	<string></string>
-	<key>PasswordEnsureOccurance</key>
-	<false/>
 	<key>PasswordUseCustomString</key>
 	<false/>
 	<key>RecentEntrySearches</key>
 	<array>
 	</array>
+	<key>SUAutomaticallyUpdate</key>
+	<true/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-09-14T21:12:41Z</date>
+	<date>2020-09-15T07:30:29Z</date>
+	<key>SUScheduledCheckInterval</key>
+	<real>86400</real>
 	<key>SUSendProfileInfo</key>
 	<false/>
-	<key>SUUpdateGroupIdentifier</key>
-	<integer>1091910140</integer>
 	<key>SUUpdateRelaunchingMarker</key>
 	<false/>
+	<key>ShowInspector</key>
+	<true/>
 </dict>
 </plist>
