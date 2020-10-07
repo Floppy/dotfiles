@@ -5,6 +5,7 @@ cask "handbrake"
 cask "losslesscut"
 brew "youtube-dl"
 mas "iMovie", id: 408981434
+mas "GarageBand", id: 682658836
 cask "calibre"
 cask "waltr"
 cask "iexplorer"
