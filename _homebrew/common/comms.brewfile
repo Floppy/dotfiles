@@ -1,7 +1,4 @@
 mas "Slack", id: 803453959
-mas "Tweetbot 3 for Twitter", id: 1384080005
-mas "Whalebird", id: 1378283354
 cask "signal"
 cask "skype"
-cask "whatsapp"
 mas "WiFi Explorer Lite", id: 1408727408
