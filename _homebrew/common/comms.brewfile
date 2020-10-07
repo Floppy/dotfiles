@@ -1,4 +1,4 @@
 mas "Slack", id: 803453959
 cask "signal"
 cask "skype"
-mas "WiFi Explorer Lite", id: 1408727408
+cask "zoomus"
