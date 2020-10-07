@@ -122,5 +122,6 @@
 	"typescript.validate.enable": false,
 	"vscode-coverage-highlighter.showDiagnostic": true,
 	"vscode-coverage-highlighter.wholeLine": true,
-	"workbench.startupEditor": "newUntitledFile"
+	"workbench.startupEditor": "newUntitledFile",
+	"window.zoomLevel": 0
 }
