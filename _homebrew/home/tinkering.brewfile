@@ -1,4 +1,4 @@
-cask "balenaetcher"
+cask "raspberry-pi-imager"
 cask "sonic-pi"
 cask "fritzing"
 cask "arduino"
