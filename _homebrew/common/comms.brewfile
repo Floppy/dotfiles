@@ -1,4 +1,5 @@
 mas "Slack", id: 803453959
 cask "signal"
 cask "skype"
-cask "zoomus"
+cask "zoom"
+cask "element"
