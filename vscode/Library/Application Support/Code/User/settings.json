@@ -37,7 +37,6 @@
 		"tsqllint.tsqllint",
 		"wingrunr21.vscode-ruby"
 	],
-	"extensions.showRecommendationsOnlyOnDemand": true,
 	"files.insertFinalNewline": true,
 	"files.trimFinalNewlines": true,
 	"files.trimTrailingWhitespace": true,
@@ -105,7 +104,6 @@
 	],
 	"rainbow_csv.csv_lint_detect_trailing_spaces": true,
 	"ruby.codeCompletion": "rcodetools",
-	"ruby.format": "rubocop",
 	"ruby.intellisense": "rubyLocate",
 	"ruby.useBundler": true,
 	"tabnine.experimentalAutoImports": true,
