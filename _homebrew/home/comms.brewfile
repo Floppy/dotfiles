@@ -1,3 +1,4 @@
 mas "Tweetbot 3 for Twitter", id: 1384080005
 mas "Whalebird", id: 1378283354
 cask "whatsapp"
+cask "franz"
