@@ -31,3 +31,5 @@
 	required = true
 [diff "csv"]
 	wordRegex = [^,\n]+[,\n]|[,]
+[submodule]
+	recurse = true
