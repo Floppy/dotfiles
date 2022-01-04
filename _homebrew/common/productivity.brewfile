@@ -10,3 +10,4 @@ mas "Keynote", id: 409183694
 cask "libreoffice"
 mas "Todoist", id: 585829637
 cask "prismatik"
+cask "karabiner-elements"
