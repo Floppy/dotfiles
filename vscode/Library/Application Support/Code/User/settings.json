@@ -121,5 +121,23 @@
 	"vscode-coverage-highlighter.showDiagnostic": true,
 	"vscode-coverage-highlighter.wholeLine": true,
 	"workbench.startupEditor": "newUntitledFile",
-	"window.zoomLevel": 0
+	"window.zoomLevel": 0,
+	"ruby.useLanguageServer": true,
+	"ruby.lint": {
+		"standard": true
+	},
+	"liveshare.authenticationProvider": "GitHub",
+	"mssql.connections": [
+		{
+			"server": "{{put-server-name-here}}",
+			"database": "{{put-database-name-here}}",
+			"user": "{{put-username-here}}",
+			"password": "{{put-password-here}}"
+		}
+	],
+	"workbench.editorAssociations": {
+		"*.ipynb": "jupyter.notebook.ipynb"
+	},
+	"redhat.telemetry.enabled": true,
+	"editor.inlineSuggest.enabled": true
 }
