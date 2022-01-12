@@ -1,3 +1,2 @@
-brew "unrar"
 cask "transmission"
 mas "The Unarchiver", id: 425424353

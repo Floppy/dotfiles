@@ -1,8 +1,6 @@
 cask "macpass"
 cask "authy"
 cask "gpg-suite"
-tap "fluidkeys/tap"
-brew "fluidkeys"
 cask "oversight"
 brew "pwgen"
 brew "ykpers"
