@@ -1,7 +1,6 @@
 cask "macpass"
 cask "authy"
 cask "gpg-suite"
-cask "oversight"
 brew "pwgen"
 brew "ykpers"
 tap "theseal/ssh-askpass"
