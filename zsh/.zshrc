@@ -66,7 +66,6 @@ COMPLETION_WAITING_DOTS="true"
 plugins=(
   git
   npm
-  nvm
   bundler
   rake
   docker
@@ -105,10 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export NVM_DIR="$HOME/.nvm"
-  [ -s "/usr/local/opt/nvm/nvm.sh" ] && . "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
-  [ -s "/usr/local/opt/nvm/etc/bash_completion" ] && . "/usr/local/opt/nvm/etc/bash_completion"  # This loads nvm bash_completion
-export PATH="/usr/local/sbin:$PATH"
+eval "$(nodenv init -)"
 
 export JAVA_HOME=$(/usr/libexec/java_home)
 
