@@ -1,1 +1,2 @@
 brew "imagemagick"
+brew "monitorcontrol"
