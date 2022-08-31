@@ -139,5 +139,7 @@
 		"*.ipynb": "jupyter.notebook.ipynb"
 	},
 	"redhat.telemetry.enabled": true,
-	"editor.inlineSuggest.enabled": true
+	"editor.inlineSuggest.enabled": true,
+	"plantuml.jar": "/usr/local/Cellar/plantuml/1.2022.5/libexec/plantuml.jar",
+	"npm.keybindingsChangedWarningShown": true
 }
