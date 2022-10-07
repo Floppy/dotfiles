@@ -1,2 +1,2 @@
 brew "imagemagick"
-brew "monitorcontrol"
+cask "monitorcontrol"
