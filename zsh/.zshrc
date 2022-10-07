@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:/usr/local/php5/bin:$PATH:/Users/james/Source/github.com/dxw/dalmatian-tools/bin
+export PATH=$HOME/bin:/usr/local/bin:/usr/local/php5/bin:/usr/local/opt/make/libexec/gnubin:$PATH:/Users/james/Source/github.com/dxw/dalmatian-tools/bin
 
 
 # Path to your oh-my-zsh installation.
