@@ -141,5 +141,13 @@
 	"redhat.telemetry.enabled": true,
 	"editor.inlineSuggest.enabled": true,
 	"plantuml.jar": "/usr/local/Cellar/plantuml/1.2022.5/libexec/plantuml.jar",
-	"npm.keybindingsChangedWarningShown": true
+	"githubPullRequests.createOnPublishBranch": "never",
+	"[ruby]": {
+		"editor.defaultFormatter": "misogi.ruby-rubocop"
+	},
+	"ruby.pathToBundler": "/Users/james/.rbenv/shims/bundler",
+	"ruby.interpreter.commandPath": "/Users/james/.rbenv/shims/ruby",
+	"ruby.rubocop.executePath": "/Users/james/.rbenv/shims/rubocop",
+	"npm.keybindingsChangedWarningShown": true,
+	"editor.insertSpaces": false
 }
