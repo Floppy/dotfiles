@@ -110,3 +110,4 @@ export JAVA_HOME=$(/usr/libexec/java_home)
 
 eval "$(starship init zsh)"
 export PATH="/usr/local/opt/gradle@6/bin:$PATH"
+export PATH="/usr/local/sbin:$PATH"
