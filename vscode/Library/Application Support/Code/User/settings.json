@@ -149,5 +149,11 @@
 	"ruby.interpreter.commandPath": "/Users/james/.rbenv/shims/ruby",
 	"ruby.rubocop.executePath": "/Users/james/.rbenv/shims/rubocop",
 	"npm.keybindingsChangedWarningShown": true,
-	"editor.insertSpaces": false
+	"editor.insertSpaces": false,
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"editor.formatOnPaste": true
 }
