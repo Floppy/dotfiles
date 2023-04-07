@@ -1,6 +1,5 @@
 brew "stow"
 cask "alfred"
-cask "quitter"
 brew "rename"
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
