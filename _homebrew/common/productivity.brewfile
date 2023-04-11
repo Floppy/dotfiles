@@ -7,3 +7,4 @@ mas "Keynote", id: 409183694
 cask "libreoffice"
 cask "prismatik"
 cask "karabiner-elements"
+cask "mutesync"
