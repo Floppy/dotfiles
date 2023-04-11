@@ -11,3 +11,5 @@ cask "iexplorer"
 brew "mkvtoolnix"
 brew "get_iplayer"
 brew "gpac"
+mas "Pixelmator", id: 407963104
+mas "Irvue", id: 1039633667
