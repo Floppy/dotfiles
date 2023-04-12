@@ -1,3 +1,4 @@
 cask "arc"
 mas "Trello", id: 1278508951
 mas "Next Meeting", id: 1017470484
+cask "miro"
