@@ -1,4 +1,5 @@
 brew "awscli"
+cask "session-manager-plugin"
 tap "cloudfoundry/tap"
 brew "cf-cli"
 tap "dxw/tap"
