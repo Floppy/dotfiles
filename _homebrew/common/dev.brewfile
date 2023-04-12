@@ -33,7 +33,7 @@ brew "heroku/brew/heroku"
 brew "heroku/brew/heroku-node" # manually specified to help cleanup
 brew "git"
 brew "pipenv"
-cask "adoptopenjdk"
+cask "temurin"
 brew "yamllint"
 brew "git-flow"
 brew "exercism"
