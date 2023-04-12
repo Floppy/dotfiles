@@ -111,3 +111,5 @@ export JAVA_HOME=$(/usr/libexec/java_home)
 eval "$(starship init zsh)"
 export PATH="/usr/local/opt/gradle@6/bin:$PATH"
 export PATH="/usr/local/sbin:$PATH"
+
+source /Users/james/.docker/init-zsh.sh || true # Added by Docker Desktop
