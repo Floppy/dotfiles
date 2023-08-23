@@ -4,7 +4,7 @@ tap "homebrew/bundle"
 tap "homebrew/services"
 brew "mas"
 
-tap "domt4/autoupdate"
+tap "homebrew/autoupdate"
 
 Dir.glob("common/*.brewfile").each do |f|
   instance_eval(File.read(f))
