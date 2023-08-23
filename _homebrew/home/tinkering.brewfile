@@ -1,6 +1,5 @@
 cask "raspberry-pi-imager"
 cask "sonic-pi"
 cask "arduino"
-cask "autodesk-fusion360"
 cask "meshmixer"
 cask "superslicer"

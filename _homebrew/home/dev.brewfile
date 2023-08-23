@@ -1,2 +1,2 @@
-cask "phantomjs"
-cask "blender"
+brew "ansible"
+brew "ansible-lint"

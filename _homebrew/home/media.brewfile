@@ -1,13 +1,7 @@
+cask "blender"
 cask "plex"
-brew "ffmpeg"
-cask "makemkv"
-cask "handbrake"
-cask "losslesscut"
 brew "youtube-dl"
 mas "iMovie", id: 408981434
 mas "GarageBand", id: 682658836
-brew "mkvtoolnix"
-brew "get_iplayer"
-brew "gpac"
 mas "Pixelmator", id: 407963104
 mas "Irvue", id: 1039633667
