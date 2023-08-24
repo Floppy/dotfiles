@@ -2,9 +2,10 @@ tap "homebrew/cask"
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/services"
-brew "mas"
-
 tap "homebrew/autoupdate"
+
+brew "mas"
+brew "whalebrew"
 
 Dir.glob("common/*.brewfile").each do |f|
   instance_eval(File.read(f))
