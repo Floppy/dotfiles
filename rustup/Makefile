@@ -1,2 +1,0 @@
-default:
-	rustup-init -y
