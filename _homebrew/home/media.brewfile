@@ -1,6 +1,6 @@
 cask "blender"
 cask "plex"
-brew "youtube-dl"
+whalebrew "whalebrew/youtube-dl"
 mas "iMovie", id: 408981434
 mas "GarageBand", id: 682658836
 mas "Pixelmator", id: 407963104

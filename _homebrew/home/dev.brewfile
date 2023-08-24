@@ -1,3 +1,2 @@
-brew "ansible"
-brew "ansible-lint"
+whalebrew "whalebrew/ansible"
 brew "glfw"
