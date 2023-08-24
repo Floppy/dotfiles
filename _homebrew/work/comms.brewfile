@@ -1,3 +1,2 @@
-cask "skype-for-business"
 cask "microsoft-teams"
 cask "webex-meetings"
