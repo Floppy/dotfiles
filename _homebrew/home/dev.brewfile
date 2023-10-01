@@ -1,2 +1,2 @@
-whalebrew "whalebrew/ansible"
+brew "ansible"
 brew "glfw"
