@@ -1,5 +1,4 @@
 cask "raspberry-pi-imager"
-cask "sonic-pi"
 cask "arduino"
 cask "meshmixer"
 cask "superslicer"
