@@ -13,8 +13,10 @@ tap "grdl/tap"
 brew "grdl/tap/git-get"
 
 # IDEs
-cask "visual-studio-code"
 mas "XCode", id: 497799835
+cask "visual-studio-code"
+vscode "mikestead.dotenv"
+vscode "eamodio.gitlens"
 
 # Ruby
 brew "rbenv"
