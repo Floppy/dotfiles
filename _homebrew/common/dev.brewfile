@@ -1,32 +1,50 @@
-mas "XCode", id: 497799835
+# Basics
 tap "homebrew/cask-fonts"
 cask "font-fira-code"
 cask "font-fira-code-nerd-font"
-cask "visual-studio-code"
 cask "iterm2"
+brew "starship"
+
+# Git
+brew "git"
+brew "git-crypt"
+brew "git-absorb"
+tap "grdl/tap"
+brew "grdl/tap/git-get"
+
+# IDEs
+cask "visual-studio-code"
+mas "XCode", id: 497799835
+
+# Ruby
 brew "rbenv"
 brew "ruby-build"
 brew "rbenv-default-gems"
 vscode "shopify.ruby-extensions-pack"
 
+# Javascript
 tap "nodenv/nodenv"
 brew "nodenv"
 brew "nodenv-package-json-engine"
 brew "yarn"
+
+# Java
+cask "temurin"
+
+# Python
+brew "pipenv"
+
+# Browsers
 cask "firefox"
 cask "google-chrome"
-cask "postman"
+
+# Databases
 brew "postgresql@16"
+
+# Misc
+cask "postman"
 whalebrew "whalebrew/plantuml"
-brew "git-crypt"
-brew "git"
-brew "pipenv"
-cask "temurin"
 brew "exercism"
-brew "git-absorb"
-tap "grdl/tap"
-brew "grdl/tap/git-get"
-brew "starship"
 whalebrew "whalebrew/wget"
 whalebrew "whalebrew/jq"
 whalebrew "whalebrew/yq"
