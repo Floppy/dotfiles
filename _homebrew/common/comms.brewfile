@@ -1,3 +1,4 @@
 mas "Slack", id: 803453959
 cask "zoom"
 cask "element"
+cask "arc"
