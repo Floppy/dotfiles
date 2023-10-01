@@ -1,5 +1,4 @@
 {
-	"C_Cpp.updateChannel": "Insiders",
 	"diffEditor.ignoreTrimWhitespace": false,
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": true
@@ -107,9 +106,6 @@
 			"password": "{{put-password-here}}"
 		}
 	],
-	"workbench.editorAssociations": {
-		"*.ipynb": "jupyter.notebook.ipynb"
-	},
 	"redhat.telemetry.enabled": true,
 	"editor.inlineSuggest.enabled": true,
 	"plantuml.jar": "/usr/local/Cellar/plantuml/1.2022.5/libexec/plantuml.jar",
