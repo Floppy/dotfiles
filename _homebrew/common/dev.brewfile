@@ -7,6 +7,8 @@ cask "iterm2"
 brew "rbenv"
 brew "ruby-build"
 brew "rbenv-default-gems"
+vscode "shopify.ruby-extensions-pack"
+
 tap "nodenv/nodenv"
 brew "nodenv"
 brew "nodenv-package-json-engine"
