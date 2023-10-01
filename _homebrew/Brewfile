@@ -5,6 +5,8 @@ tap "homebrew/services"
 tap "homebrew/autoupdate"
 
 brew "mas"
+
+cask "docker"
 brew "whalebrew"
 
 Dir.glob("common/*.brewfile").each do |f|
