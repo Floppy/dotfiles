@@ -1,0 +1,5 @@
+brew "coreutils"
+brew "diffutils"
+brew "findutils"
+brew "grep"
+brew "curl"
