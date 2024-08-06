@@ -40,9 +40,6 @@ brew "pipenv"
 cask "firefox"
 cask "google-chrome"
 
-# Databases
-brew "postgresql@16"
-
 # Misc
 cask "postman"
 whalebrew "whalebrew/plantuml"
