@@ -1,4 +1,0 @@
-instance_eval(File.read(File.join("Brewfile")))
-Dir.glob(File.join("work","*.brewfile")).each do |f|
-  instance_eval(File.read(f))
-end
