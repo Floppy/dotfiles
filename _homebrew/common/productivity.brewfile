@@ -1,5 +1,5 @@
 brew "stow"
-cask "alfred"
+cask "alfred@4"
 brew "rename"
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
