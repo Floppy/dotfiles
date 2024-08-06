@@ -1,7 +1,5 @@
 {
-	"diffEditor.ignoreTrimWhitespace": false,
 	"editor.codeActionsOnSave": {
-		"source.fixAll.eslint": true
 	},
 	"editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
 	"editor.fontLigatures": true,
@@ -108,10 +106,21 @@
 	],
 	"redhat.telemetry.enabled": true,
 	"editor.inlineSuggest.enabled": true,
-	"plantuml.jar": "/usr/local/Cellar/plantuml/1.2022.5/libexec/plantuml.jar",
+	"plantuml.jar": "/usr/local/Cellar/plantuml/1.2023.11/libexec/plantuml.jar",
 	"githubPullRequests.createOnPublishBranch": "never",
 	"[ruby]": {
-		"editor.defaultFormatter": "testdouble.vscode-standard-ruby"
+		"editor.defaultFormatter": "Shopify.ruby-lsp",
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		"files.trimTrailingWhitespace": true,
+		"files.insertFinalNewline": true,
+		"files.trimFinalNewlines": true,
+		"editor.rulers": [
+			120
+		],
+		"editor.semanticHighlighting.enabled": true
 	},
 	"ruby.pathToBundler": "/Users/james/.rbenv/shims/bundler",
 	"ruby.interpreter.commandPath": "/Users/james/.rbenv/shims/ruby",
@@ -121,7 +130,15 @@
 	"[python]": {
 		"editor.formatOnType": true
 	},
-	"editor.formatOnSave": true,
 	"editor.formatOnType": true,
-	"editor.formatOnPaste": true
+	"editor.formatOnPaste": true,
+	"githubPullRequests.pullBranch": "never",
+	"[xml]": {},
+	"[typescript]": {},
+	"typescript.format.insertSpaceAfterConstructor": true,
+	"typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+	"workbench.colorTheme": "Spinel",
+	"explorer.confirmDragAndDrop": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"extensions.ignoreRecommendations": true
 }
