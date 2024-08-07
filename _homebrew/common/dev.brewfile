@@ -39,6 +39,12 @@ brew "pipenv"
 cask "firefox"
 cask "chromium"
 
+# Databases
+brew "libpq"
+brew "zstd"
+brew "mysql-client"
+brew "valkey"
+
 # Misc
 cask "postman"
 whalebrew "whalebrew/plantuml"
