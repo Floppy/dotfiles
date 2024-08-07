@@ -4,7 +4,5 @@ brew "rename"
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
-cask "libreoffice"
-cask "prismatik"
 cask "karabiner-elements"
 cask "mutesync"
