@@ -1,4 +1,4 @@
-VERSIONS := 3.1.2 3.0.1 2.7.5 2.6.9
+VERSIONS := 3.3.1
 
 .PHONY: $(VERSIONS)
 
