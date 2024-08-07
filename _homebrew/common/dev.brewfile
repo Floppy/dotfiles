@@ -37,7 +37,7 @@ brew "pipenv"
 
 # Browsers
 cask "firefox"
-cask "google-chrome"
+cask "chromium"
 
 # Misc
 cask "postman"
